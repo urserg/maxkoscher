@@ -1,0 +1,137 @@
+ body {
+ 	scrollbar-arrow-color: blue;
+ 	scrollbar-3d-light-color: blue;
+ 	scrollbar-base-color: white;
+ 	scrollbar-dark-shadow-color: black;
+ 	scrollbar-face-color: white;
+ 	scrollbar-highlight-color: white;
+ 	scrollbar-shadow-color: blue;
+ 	text-align: center;
+ }
+ 
+ .Violett {
+ 	font-size: medium;
+ 	text-decoration: underline;
+ 	color: #909;
+ }
+ 
+ a {
+ 	color: blue;
+ 	text-decoration: none
+ }
+ 
+ a:link {
+ 	color: blue;
+ 	text-decoration: none
+ }
+ 
+ a:vlink {
+ 	color: blue;
+ 	text-decoration: none
+ }
+ 
+ a:alink {
+ 	color: blue;
+ 	text-decoration: none
+ }
+ 
+ a:hover {
+ 	color: red!important;
+ 	text-decoration: underline;
+ 	font-size: small;
+ }
+ 
+ .challot {
+ 	color: #000;
+ }
+ 
+ .blaugross {
+ 	font-size: large;
+ 	color: #00F;
+ 	font-weight: bold;
+ }
+ 
+ .blauklein {
+ 	font-size: 18px;
+ 	color: #00F;
+ }
+ 
+ .txt_gr {
+ 	font-size: 18px;
+ 	font-weight: bold;
+ }
+ 
+ .txt_kl {
+ 	font-size: 14px;
+ 	text-align: center;
+ }
+ 
+ .txt_med { 
+ 	font-size: 16px;
+ 	font-weight: normal;
+ }
+ 
+ .tel {
+ 	font-size: 16px;
+ 	font-family: "Eurostar Black Extended";
+ }
+ 
+ .extra {
+ 	 
+ 	font-size: x-small;
+ 	color: #C0F;
+ 	text-decoration: underline;
+ 	font-weight: normal;
+ }
+ 
+ .txt_kl {
+ 	 
+ 	font-size: 14px;
+ }
+ 
+ .mega_code {
+ 	color: #FFF;
+ }
+ 
+ .ganz_kleine_schrift {
+ 	font-size: 1px;
+ 	color: #FFF;
+ }
+ 
+ .Farbe_blau {
+ 	color: #000080;
+ }
+ 
+ .challot {
+ 	color: #000;
+ }
+ 
+ .img_ban_small {
+ 	width: 50%;
+ }
+ 
+ .img_ban_big {
+ 	width: 80%;
+ }
+
+.unser_angebot {
+	color: #800040;
+	font-size: 20px;
+}
+
+.left_menu li {
+	list-style-type: none;
+}
+
+.left_menu {
+	text-align: left;
+}
+
+.left_menu ul {
+	padding-left: 0;
+}
+
+.left_menu ul li a {
+	font-size: 1.2em;
+  font-weight: bold;
+}
